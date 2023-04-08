@@ -1,13 +1,13 @@
 ---
-title: Writing technical content in Markdown
-date: 2019-07-12
+title: Управление версиями. Git
+date: 2023-03-17
 math: true
 image:
   placement: 2
   caption: 'Image credit: [**John Moeses Bauan**](https://unsplash.com/photos/OGZtQF8iC0g)'
 ---
 
-Wowchemy is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.
+Система контроля версий (Version Control System, VCS) представляет собой программное обеспечение, которое позволяет отслеживать изменения в документах, при необходимости производить их откат, определять, кто и когда внес исправления и т.п. 
 
 **Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.**
 

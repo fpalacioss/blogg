@@ -46,17 +46,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Progra
           description: 90%
-          icon: r-project
+          icon: p
           icon_pack: fab
-        - name: Statistics
+        - name: astronomo
           description: 100%
-          icon: chart-line
+          icon: a
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: cheff. Cocinador
+          description: 50%
+          icon: c
           icon_pack: fas
   - block: experience
     content:
@@ -70,27 +70,20 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: CC
+          company: IngChSolar
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: America Latina
+          date_start: '2018-01-01'
+          date_end: '2022-01-12'
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+              * Installation
+              * Control
+              * Datameasurement/medicion de datos
+  
     design:
       columns: '2'
   - block: accomplishments
@@ -106,30 +99,15 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2019-03-15'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: IngChSolar
+          title: ecosolar
           url: ''
-        - certificate_url: https://www.edx.org
-          date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
-          url: ''
+        
+       
     design:
       columns: '2'
   - block: collection
