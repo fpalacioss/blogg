@@ -48,21 +48,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 
-  - icon: twitter
-    icon_pack: fab
-    link: 
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://www.rudn.ru/
   - icon: github
     icon_pack: fab
     link: https://github.com/fpalacioss?tab=repositories
-  - icon: linkedin
+  - icon: youtube
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://rutube.ru/channel/30310129/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
